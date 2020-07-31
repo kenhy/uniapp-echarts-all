@@ -1,0 +1,1 @@
+<view><e-charts vue-id="9c6e10e4-1" canvas-id="zphhhhh" option="{{option}}" width="100%" height="360px" bind:__l="__l"></e-charts></view>

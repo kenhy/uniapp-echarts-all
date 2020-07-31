@@ -1,0 +1,1 @@
+<view class="data-v-4c4df37f"><view class="echarts data-v-4c4df37f" id="{{option.id}}" prop="{{option}}" change:prop="{{echarts.update}}" bindtap="{{echarts.onClick}}"></view></view>
